@@ -1,0 +1,8 @@
+{
+  "name": "@react-practice/contact-book",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "contact-book"
+  }
+}
